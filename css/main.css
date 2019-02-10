@@ -30,7 +30,7 @@ header h1 {
     font-family: 'Lora', sans-serif;
     font-size: 30px;
     font-weight: 800;
-    color: #bbc085;
+    color: #c49075;
     padding: 65px 0 65px 25px;
 }
 
@@ -88,18 +88,18 @@ header h2 span {
     
 }
 
-/**********WORK******/
+/**********SKILLS******/
 
-#work .full-width{
+#skills .full-width{
     padding: 115px 0;
     background-color: #F9CEB7;
     overflow: auto;
 }
-#work img{
+#skills img{
     padding: 0 140px;
     padding-bottom: 30px;
 }
-#work h3{
+#skills h3{
     font: size 24px;
     line-height: 32px;
     width: 150px;
@@ -108,7 +108,7 @@ header h2 span {
     text-align: center;
     padding: 0 100px;
 }
-#work p{
+#skills p{
     font-family: 'Lora', serif;
     font-size: 18px;
     line-height: 30px;
@@ -180,4 +180,8 @@ header h2 span {
 #contact ul img {
     font-size: 32px;
     padding-right: 48px;
+}
+
+#work {
+    
 }
